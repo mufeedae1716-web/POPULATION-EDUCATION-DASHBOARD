@@ -1,6 +1,7 @@
 # POPULATION-EDUCATION-DASHBOARD
 
  Overview
+ 
 This project presents an interactive Population & Education Dashboard built using Power BI. It analyzes demographic and educational data of Kendrapara District (Odisha) – Scheduled Tribes (ST) to uncover meaningful insights about population distribution, gender ratio, literacy, and student categories.
 
  Objectives
@@ -9,6 +10,13 @@ Analyze population distribution by age group and gender
 Understand literacy and vocational education trends
 Compare rural vs urban population and student data
 Provide actionable insights through visual storytelling
+
+Dataset Source
+
+The dataset used in this project is obtained from official government sources.
+
+* Source Platform : https://data.gov.in/
+* Direct Dataset Link: https://drive.google.com/file/d/1f-fi4CfKcEx5hYali4rU55T7bjbaIQgA/view?usp=drive_link
 
  Dataset Description
  
@@ -31,6 +39,7 @@ Data Cleaning Techniques – Handling missing values, formatting
 
 
  Dashboard Features
+ 
 1. Population Analysis
 
 Population distribution across age groups
@@ -93,6 +102,7 @@ Use filters (Age Group / Area Type)
 Explore visuals and insights
 
 Conclusion
+
 The dashboard clearly presents population and education trends, highlighting that most people belong to the 25+ age group with a slightly higher male population. Rural areas contribute the majority of population and students, while urban areas show better literacy and vocational participation. Overall, the dashboard effectively converts raw data into meaningful insights for better understanding and decision-making.
 
 
